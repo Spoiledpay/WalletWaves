@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Conversor</title>
+    <!-- https://electronjs.org/docs/tutorial/security#csp-meta-tag -->
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+<style type="text/css">
+body{
+    background-color: #eee;
+}
+
+.container {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#cm{
+    font-size: 2rm;
+    color: blue;
+}
+
+</style> 
+
+</head>
+  <body>
+   <div class="container">
+       <input type="text" name="pol" id="pol">
+       <div id="cm"></div>
+       <button onclick="converter()">Conversor</button>
+   </div>
+
+
+   <script type="text/javascript">
+function converter () {
+    let pol = document.getElementById("pol")
+    .value;
+    let cm = document.getElementById("cm");
+    cm.innerHTML = pol *2.54 + " cm";
+}
+   </script>
+  </body>
+</html>
