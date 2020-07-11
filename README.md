@@ -13,7 +13,7 @@ Uma pequena introdução como iniciar o teste da aplicação na sua máquina.
 
 
 
-Windows systems:
+Sistema Windows 10:
 ```bash
 mkdir Projetos
 git clone https://github.com/Spoiledpay/WalletWaves.git
