@@ -20,3 +20,11 @@ git clone https://github.com/Spoiledpay/WalletWaves.git
 cd WalletWaves
 npm install --save-dev electron
 npm start
+
+
+## 👨‍💻 Development
+
+The node can be built and installed wherever Java can run. 
+To build and test this project, you will have to follow these steps:
+
+<details><summary><b>Show instructions</b></summary>
