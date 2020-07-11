@@ -26,7 +26,7 @@ npm start
 ## 👨‍💻 Compilando a aplicação para Windows
 
 Vamos gerar o executável da aplicação e instalar o pacote node para rodar. 
-para antes vamos, seguir esses passos:
+antes vamos, seguir esses passos:
 
 <details><summary><b>Mostrar instruções</b></summary>
 *1. Instalar o pacote.*
@@ -34,7 +34,7 @@ para antes vamos, seguir esses passos:
 
 ```bash
 npm install electron-packager -g
-sudo apt-get install openjdk-8-jre                     # Ubuntu
-# or
-# brew cask install adoptopenjdk/openjdk/adoptopenjdk8 # Mac
+electron-packager C:\Users\55619\Desktop\Projetos\Projetos\WalletWaves  Walletwaves   # Windows
+# Esperar
+# electron-packager <diretório da aplicação> espaço <nome do arquivo>                 # Windows
 ```
