@@ -29,3 +29,12 @@ The node can be built and installed wherever Java can run.
 To build and test this project, you will have to follow these steps:
 
 <details><summary><b>Show instructions</b></summary>
+*1. Setup the environment.*
+- Install Java for your platform:
+
+```bash
+sudo apt-get update
+sudo apt-get install openjdk-8-jre                     # Ubuntu
+# or
+# brew cask install adoptopenjdk/openjdk/adoptopenjdk8 # Mac
+```
