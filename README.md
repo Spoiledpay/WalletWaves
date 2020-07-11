@@ -25,7 +25,8 @@ npm start
 
 ## 👨‍💻 Compilando a aplicação para o Windows
 
-Para rodar no windows nativamente vamos instalar um pacote para compilar .exe. 
-vamos seguir os seguintes comandos:
+Para rodar no windows nativamente, vamos instalar um pacote para compilar .exe. 
+The node seguir os seguintes passos: 
+
 
 <details><summary><b>Show instructions</b></summary>
