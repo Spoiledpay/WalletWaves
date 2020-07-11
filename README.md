@@ -9,7 +9,8 @@ Uma pequena introdução como iniciar o teste da aplicação na sua máquina.
 
 *Pré-requisitos:*
 - Instalar o node diretamente do site oficial [here](https://nodejs.org/en/download/)
-- `waves-all*.jar` file from [releases](https://github.com/wavesplatform/Waves/releases) 
+- Instalar o Visual Studio Code diretamente do site oficial [here](https://code.visualstudio.com/)
+
 
 
 Windows systems:
