@@ -25,16 +25,16 @@ npm start
 
 ## 👨‍💻 Compilando a aplicação para Windows
 
-The node can be built and installed wherever Java can run. 
-To build and test this project, you will have to follow these steps:
+Vamos gerar o executável da aplicação e instalar o pacote node para rodar. 
+para antes vamos, seguir esses passos:
 
-<details><summary><b>Show instructions</b></summary>
-*1. Setup the environment.*
-- Install Java for your platform:
+<details><summary><b>Mostrar instruções</b></summary>
+*1. Instalar o pacote.*
+- npm install electron-packager -g
 
 ```bash
 sudo apt-get update
-sudo apt-get install openjdk-8-jre                     # Ubuntu
+sudo apt-get install openjdk-8-jre                     # Windows
 # or
 # brew cask install adoptopenjdk/openjdk/adoptopenjdk8 # Mac
 ```
