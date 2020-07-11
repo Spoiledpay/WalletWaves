@@ -35,6 +35,6 @@ antes vamos, seguir esses passos:
 ```bash
 npm install electron-packager -g
 electron-packager C:\Users\55619\Desktop\Projetos\Projetos\WalletWaves  Walletwaves   # Windows
-# Esperar
+# Como já está no ambiente Windows vai gerar um executável
 # electron-packager <diretório da aplicação> espaço <nome do arquivo>                 # Windows
 ```
