@@ -34,7 +34,7 @@ para antes vamos, seguir esses passos:
 
 ```bash
 sudo apt-get update
-sudo apt-get install openjdk-8-jre                     # Windows
+sudo apt-get install openjdk-8-jre                     # Ubuntu
 # or
 # brew cask install adoptopenjdk/openjdk/adoptopenjdk8 # Mac
 ```
