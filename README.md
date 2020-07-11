@@ -8,10 +8,10 @@
 Uma pequena introdução como iniciar o teste da aplicação na sua máquina. 
 
 *Prerequisites:*
-- Instalar o Electron diretamente do site oficial [here](https://www.electronjs.org/docs/tutorial/first-app#installing-electron)
-- `Download the Node.js` file from [releases](https://nodejs.org/en/download/) 
+- Instalar o Electron diretamente do site oficial [aqui](https://www.electronjs.org/docs/tutorial/first-app#installing-electron)
+- `Download the Node.js` file from [aqui](https://nodejs.org/en/download/) 
 
-Linux systems:
+Windows systems:
 ```bash
 mkdir Projetos
 git clone https://github.com/Spoiledpay/WalletWaves.git
