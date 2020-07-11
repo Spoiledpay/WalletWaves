@@ -7,9 +7,9 @@
 
 Uma pequena introdução como iniciar o teste da aplicação na sua máquina. 
 
-*Prerequisites:*
+*Pré-requisitos:*
 - Instalar o Electron diretamente do site oficial [aqui](https://www.electronjs.org/docs/tutorial/first-app#installing-electron)
-- `Download the Node.js` file from [aqui](https://nodejs.org/en/download/) 
+- `Instalar o Node.js` file from [aqui](https://nodejs.org/en/download/) 
 
 Windows systems:
 ```bash
