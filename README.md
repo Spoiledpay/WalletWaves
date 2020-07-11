@@ -23,10 +23,9 @@ npm start
 
 ```
 
-## 👨‍💻 Compilando a aplicação para o Windows
+## 👨‍💻 Compilando a aplicação para Windows
 
-Para rodar no windows nativamente, vamos instalar um pacote para compilar .exe. 
-The node seguir os seguintes passos: 
-
+The node can be built and installed wherever Java can run. 
+To build and test this project, you will have to follow these steps:
 
 <details><summary><b>Show instructions</b></summary>
