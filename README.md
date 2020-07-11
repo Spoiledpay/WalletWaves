@@ -19,3 +19,4 @@ mkdir Projetos
 git clone https://github.com/Spoiledpay/WalletWaves.git
 cd WalletWaves
 npm install --save-dev electron
+npm start
