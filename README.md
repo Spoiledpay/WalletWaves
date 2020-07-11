@@ -1,7 +1,7 @@
 # WalletWaves
 
 
-<h1 align="center"> Carteira Electron para Plataforma Waves 🔷 Platform Node</h1>
+<h1 align="center"> Carteira Electron para Plataforma Waves 🔷 </h1>
 
 ## 🚀️ Getting started
 
