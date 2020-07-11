@@ -33,7 +33,7 @@ para antes vamos, seguir esses passos:
 - npm install electron-packager -g
 
 ```bash
-sudo apt-get update
+npm install electron-packager -g
 sudo apt-get install openjdk-8-jre                     # Ubuntu
 # or
 # brew cask install adoptopenjdk/openjdk/adoptopenjdk8 # Mac
