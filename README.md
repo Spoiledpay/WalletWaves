@@ -3,7 +3,7 @@
 
 <h1 align="center"> Carteira Electron para Plataforma Waves 🔷 </h1>
 
-## 🚀️ Getting started
+## 🚀️ Começando
 
 Uma pequena introdução como iniciar o teste da aplicação na sua máquina. 
 
