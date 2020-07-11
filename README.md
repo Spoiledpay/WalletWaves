@@ -8,7 +8,7 @@
 Uma pequena introdução como iniciar o teste da aplicação na sua máquina. 
 
 *Prerequisites:*
-- Instalar o Electron diretamente do site oficial aqui [here](https://www.electronjs.org/docs/tutorial/first-app#installing-electron)
+- Instalar o Electron diretamente do site oficial [here](https://www.electronjs.org/docs/tutorial/first-app#installing-electron)
 - `waves-all*.jar` file from [releases](https://github.com/wavesplatform/Waves/releases) 
 
 Linux systems:
