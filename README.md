@@ -13,6 +13,7 @@ Uma pequena introdução como iniciar o teste da aplicação na sua máquina.
 
 Linux systems:
 ```bash
-sudo apt-get update
-sudo apt-get install openjdk-8-jre
+mkdir Projetos
+git clone https://github.com/Spoiledpay/WalletWaves.git
+cd WalletWaves
 npm install --save-dev electron
